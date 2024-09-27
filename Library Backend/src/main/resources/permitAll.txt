@@ -1,0 +1,1 @@
+"/api/admin/users/all","/api/checkout/service/all","/api/checkout/service/all/pageWise","/api/checkout/service/getById","/api/reviews/service/all","/api/reviews/service/all/pageWise","/api/reviews/service/getByReviewId","/api/reviews/service/getByBookId/pageWise","/api/history/service/all"
